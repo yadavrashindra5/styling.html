@@ -2,10 +2,17 @@
 <html>
   <head>
     <title>about friends</tilte>
-   
+    <style>
+    pre.error{
+   background-color=black;
+      font-size=50px;
+      color=white;
+    
+    }
+   </style>
   </head>
   <body>
-<pre style="background-color:black; color:white; font-size:50px;">
+<pre class="error">
 
   And with great fear I inhabit the middle of the night
   And with great fear I inhabit the middle of the night
